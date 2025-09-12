@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1065162845238",
+    "project_id": "talknep",
+    "storage_bucket": "talknep.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065162845238:android:8859a532bfdfc160043c97",
+        "android_client_info": {
+          "package_name": "com.talknep.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065162845238-6eqt677acs75tcgjosi75n875i2o4b2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talknep.user",
+            "certificate_hash": "f0574fa459d6e43857c98c3e8fbe0c33f6c692d2"
+          }
+        },
+        {
+          "client_id": "1065162845238-52lhnjkr21ncqnd67buq86tv5nl7mcd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVkUL2FRyu8ZMAmgDvbgFzRpxqVXBl3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065162845238-52lhnjkr21ncqnd67buq86tv5nl7mcd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065162845238-g9k03pt5hige5173630ni2f8faejpg61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.talknep.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
